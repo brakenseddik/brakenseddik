@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Anwar</h1>
+<h1 align="center">Hi 👋, I'm Braken Mohammed</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&layout=compact&hide=html" alt="brakenseddik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakenseddik&show_icons=true" alt="brakenseddik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brakenseddik&show_icons=true" alt="brakenseddik" /></p>
 
 
