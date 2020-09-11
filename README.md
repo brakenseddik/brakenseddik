@@ -2,9 +2,7 @@
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
-![Facebook Follow](https://img.shields.io/facebook/follow/brakenseddik?label=brakenseddik&logo=facebook&style=for-the-badge)
-![Instgram Follow](https://img.shields.io/instgram/follow/brakenseddik?label=brakenseddik&logo=instgram&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/brakenseddik?label=brakenseddiklogo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/brakenseddik?label=brakenseddik&logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on [Wrangle App](https://www.wrangleapp.com)
 
@@ -29,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&layout=compact&hide=html" alt="brakenseddik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrakenseddik&show_icons=true" alt="brakenseddik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakenseddik&show_icons=true" alt="brakenseddik" /></p>
 
 
