@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Braken Mohammed</h1>
+<h1 align="center">Hi 👋, I'm Braken Mohammed Esseddik</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
