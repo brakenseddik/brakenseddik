@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- ⚡ Fun fact **I love to play Football and Chai over coffee.**
 
 ### Connect with me:
 
