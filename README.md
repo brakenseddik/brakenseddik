@@ -4,13 +4,13 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/brakenseddik?label=brakenseddik&logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Wrangle App](https://www.wrangleapp.com)
+- 🔭 I’m currently working on [Wrangle App](https://www.wrangleapp.io)
 
 - 🌱 I’m currently learning **Flutter, SwiftUI**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love to play Football and Chai over coffee.**
+- ⚡ Fun fact **I love to play Football.**
 
 ### Connect with me:
 
