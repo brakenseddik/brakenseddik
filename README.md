@@ -4,9 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/brakenseddik?label=brakenseddik&logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Wrangle App](https://www.wrangleapp.io)
+- 🔭 I’m open towork as Freelancer / in site
 
-- 🌱 I’m currently learning **Flutter, SwiftUI**
+- 🌱 I’m currently learning **Node.js, React**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
@@ -32,7 +32,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -40,7 +39,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>    
 
 
-<a href="https://github.com/brakenseddik">
+<a href="https://github.com/brakenseddik" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&theme=light&hide_langs_below=1" />
 </a>
 
