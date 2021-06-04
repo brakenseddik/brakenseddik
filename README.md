@@ -45,6 +45,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&theme=light&hide_langs_below=1" />
 </a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&theme=light" />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brakenseddik&show_icons=true" alt="brakenseddik" /></p>
 
