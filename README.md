@@ -4,9 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/brakenseddik?label=brakenseddik&logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m open towork as Freelancer, Remote or in site
+- 🔭 I’m open to work as Freelancer, Remote or in-site.
 
-- 🌱 I’m currently learning **Node.js, React**
+- 🌱 I’m currently learning **Node.js, React, Kotlin**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
