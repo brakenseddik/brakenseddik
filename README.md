@@ -42,8 +42,11 @@
  
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&theme=light" />
+<p>
+ <a href="https://github.com/brakenseddik/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brakenseddik&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
+  </a>
+ </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brakenseddik&show_icons=true" alt="brakenseddik" /></p>
