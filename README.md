@@ -6,9 +6,9 @@
 
 - 🔭 I’m open to work as Freelancer, Remote or in-site.
 
-- 🌱 I’m currently learning **Node.js, React, Kotlin**
+- 🌱 I’m currently learning **MERN, Swift UI**
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 👯 I’m looking to collaborate with **Other content creators**
 
 - ⚡ Fun fact **I love to play Football.**
 
