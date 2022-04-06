@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Braken Mohammed Esseddik</h1>
-<h3 align="center">Software Developer | Flutter | LARAVEL</h3>
+<h3 align="center">Software Developer | Flutter Developer </h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/brakenseddik?label=brakenseddik&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/brakenseddik?label=brakenseddik&logo=GitHub&style=for-the-badge)
