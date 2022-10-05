@@ -6,7 +6,7 @@
 
 - 🔭 I’m open to work as Freelancer, Remote or in-site.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning the **JavaScript Stack**
 
 - 👯 I’m looking to collaborate with **Other content creators**
 
